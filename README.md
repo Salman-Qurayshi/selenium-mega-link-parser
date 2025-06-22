@@ -36,3 +36,21 @@ pip install -r requirements.txt
 
 # Run the script
 python3 mega-heading-extractor-final.py
+```
+When prompted:
+
+Enter the input file path (one Mega link per line)
+
+Enter the desired output file path
+
+### Why This Exists
+This was one of my early automation experiments with Python and Selenium, created to solve a real need and practice working with browser automation.
+It reflects my journey of:
+
+Applying what I was learning
+
+Using AI-assisted coding to build useful tools
+
+Solving time-consuming manual tasks with automation
+
+📌 Note: This script is for personal/educational use only. Mega.nz may update their layout or block automated access, so use responsibly.
